@@ -12,6 +12,7 @@ namespace TestApplication
         {
             Console.Write("Test Application");
             //Added in vs
+            //Added in git
             //added in vs -1
         }
     }
